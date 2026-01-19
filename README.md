@@ -3,7 +3,7 @@
 <h2>👨‍💻 University Game Development Projects:</h2>
 
 - <b> Unity Group Project  (C#, Unity) </b>
-  - [Practicing Object-Oriented Programming](PUT GITHUB REPO URL)
+  - [Forest Frenzy Group Project](PUT GITHUB REPO URL)
 - <b> Object-Oriented Programming Practice (C#, Unity) </b>
   - [Practicing Object-Oriented Programming](PUT GITHUB REPO URL)
 - <b> Physical Computing Project (C++, Ardunio Uno)</b>
