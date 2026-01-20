@@ -10,8 +10,8 @@
   - [Microcontroller, Arduino Uno R4 Wifi Project](https://github.com/MehmetSari-Dev/Helm-Of-Offering)
 - <b> Unreal Engine Tool Plugin Project (C++, Unreal Engine 5) </b>
   - [Procedural Road Network Generation Plugin Tool Project](https://github.com/MehmetSari-Dev/Procedural-Road-Network-Generation-UE5-Tool-Plugin)
-- <b> Unreal Engine 5, First Person Shooter Project (C++ & Blueprints, Unreal Engine 5) </b>
-  - [FPS Project Using UE5 Blueprints and C++](https://github.com/MehmetSari-Dev/UE5-FPS-Project)
+- <b> Unreal Engine 5 Blueprints and C++, First Person Shooter Project (C++ & Blueprints, Unreal Engine 5) </b>
+  - [Operation Silent Protocol](https://github.com/MehmetSari-Dev/UE5-FPS-Project)
 
 
 <h2>👨‍💻 Personal Projects:</h2>
