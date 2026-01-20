@@ -3,15 +3,15 @@
 <h2>👨‍💻 University Game Development Projects:</h2>
 
 - <b> Unity Group Project  (C#, Unity) </b>
-  - [Forest Frenzy Group Project](PUT GITHUB REPO URL)
+  - [Forest Frenzy Group Project](https://github.com/MehmetSari-Dev/Forest-Frenzy)
 - <b> Object-Oriented Programming Practice (C#, Unity) </b>
-  - [Practicing Object-Oriented Programming](PUT GITHUB REPO URL)
+  - [Practicing Object-Oriented Programming](https://github.com/MehmetSari-Dev/Object-Oriented-Programming-Practice)
 - <b> Physical Computing Project (C++, Ardunio Uno)</b>
-  - [Microcontroller, Arduino Uno R4 Wifi Project](PUT GITHUB REPO URL)
+  - [Microcontroller, Arduino Uno R4 Wifi Project](https://github.com/MehmetSari-Dev/Helm-Of-Offering)
 - <b> Unreal Engine Tool Plugin Project (C++, Unreal Engine 5) </b>
-  - [Procedural Road Network Generation Plugin Tool Project](PUT GITHUB REPO URL)
+  - [Procedural Road Network Generation Plugin Tool Project](https://github.com/MehmetSari-Dev/Procedural-Road-Network-Generation-UE5-Tool-Plugin)
 - <b> Unreal Engine 5, First Person Shooter Project (C++ & Blueprints, Unreal Engine 5) </b>
-  - [FPS Project Using UE5 Blueprints and C++]PUT GITHUB REPO URL)
+  - [FPS Project Using UE5 Blueprints and C++](https://github.com/MehmetSari-Dev/UE5-FPS-Project)
 
 
 <h2>👨‍💻 Personal Projects:</h2>
